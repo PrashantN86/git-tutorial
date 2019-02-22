@@ -1,2 +1,2 @@
-# git-tutorial
+# git-tutorial for Team
 git-tutorial
